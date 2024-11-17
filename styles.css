@@ -1,0 +1,30 @@
+body {
+  /*background-color: #eee;*/
+  font-family: Arial;
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+}
+
+img.logo {
+  width: 240px;
+  height: 240px;
+}
+
+h1.title {
+  text-transform: uppercase;
+  margin: 0px;
+}
+
+p.title {
+  font-size: 24px;
+  text-transform: lowercase;
+  margin-top: 0px;
+}
